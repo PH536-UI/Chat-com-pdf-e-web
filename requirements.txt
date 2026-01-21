@@ -1,8 +1,8 @@
 streamlit
-google-genai
-python-dotenv
-PyMuPDF
-requests
+langchain
+langchain-community
+langchain-google-genai
+langchain-chroma
+langchain-text-splitters
+pypdf
 beautifulsoup4
-reportlab
-pandas
