@@ -1,3 +1,21 @@
+# Arquivos de ambiente
 .env
+
+# Cache do Python
 __pycache__/
 *.pyc
+
+# Arquivos temporários
+*.log
+*.tmp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pastas ocultas
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
