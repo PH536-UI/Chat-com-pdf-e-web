@@ -1,3 +1,11 @@
+
+---
+
+## 📄 Estrutura final sugerida
+
+Seu `README.md` completo deve ficar assim:
+
+```markdown
 # Chat com PDF e Web 🤖❤️
 
 **🗂️ CONVERSE COM SEUS DOCUMENTOS E PÁGINAS DA WEB**  
