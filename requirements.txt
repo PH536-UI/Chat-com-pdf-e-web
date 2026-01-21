@@ -1,0 +1,8 @@
+streamlit
+google-genai
+python-dotenv
+PyMuPDF
+requests
+beautifulsoup4
+reportlab
+pandas
