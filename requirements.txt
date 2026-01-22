@@ -1,6 +1,21 @@
-streamlit
-langchain>=0.3.0
-langchain-community
-langchain-google-genai
-langchain-chroma
-pypdf
+# Framework principal
+streamlit==1.32.0
+
+# Integração com Gemini AI
+google-generativeai==0.3.2
+
+# Manipulação de PDFs
+pymupdf==1.23.8   # (importado como fitz)
+
+# Web scraping
+beautifulsoup4==4.12.2
+
+# Geração de relatórios e exportação
+reportlab==4.0.9
+
+# Manipulação de dados
+pandas==2.2.0
+
+# Dependências auxiliares
+requests==2.31.0
+numpy==1.26.3
